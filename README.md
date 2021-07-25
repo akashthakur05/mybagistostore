@@ -22,7 +22,7 @@
 
 ### Introduction
 
-[Bagisto](https://www.bagisto.com) is a hand tailored E-Commerce framework built on some of the hottest opensource technologies
+Modifying [Bagisto](https://www.bagisto.com) for  is a hand tailored E-Commerce framework built on some of the hottest opensource technologies
 such as [Laravel](https://laravel.com) (a [PHP](https://secure.php.net/) framework) and [Vue.js](https://vuejs.org)
 a progressive Javascript framework.
 
